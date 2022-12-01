@@ -4,7 +4,7 @@ import adventofcode.Definitions.*
 import adventofcode.Reflect.generateAOCTests
 import org.scalatest.funsuite.AnyFunSuite
 
-import collection.JavaConverters.*
+import scala.jdk.CollectionConverters.*
 import java.io.File
 import java.net.URL
 import scala.io.Source
