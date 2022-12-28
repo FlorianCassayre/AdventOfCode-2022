@@ -37,7 +37,7 @@ _My solutions to the 2022 edition of [Advent of Code](https://adventofcode.com/2
   | **[21](https://adventofcode.com/2022/day/21)** | [solution](src/main/scala/adventofcode/solutions/Day21.scala) |
   | **[22](https://adventofcode.com/2022/day/22)** | [partial solution](src/main/scala/adventofcode/solutions/Day22.scala) |
   | **[23](https://adventofcode.com/2022/day/23)** | [solution](src/main/scala/adventofcode/solutions/Day23.scala) |
-  | **[24](https://adventofcode.com/2022/day/24)** | [](src/main/scala/adventofcode/solutions/Day24.scala) |
+  | **[24](https://adventofcode.com/2022/day/24)** | [solution](src/main/scala/adventofcode/solutions/Day24.scala) |
   | **[25](https://adventofcode.com/2022/day/25)** | [](src/main/scala/adventofcode/solutions/Day25.scala) |
 
 </div>
